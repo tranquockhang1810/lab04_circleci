@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/users', (req, res) => {
-  res.send('Hello Khang Tran Quoc!');
+  res.send('Em nộp bài lab04 ạ!');
 });
 
 app.listen(3000, () => {
